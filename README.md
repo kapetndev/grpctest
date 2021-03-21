@@ -1,7 +1,8 @@
 # grpctest
 
-This README outlines the details of collaborating on this Go module. A short
-introduction of this module could easily go here.
+`grpctest` is a module providing utilities for testing gRPC servers.
+Specifically it formalises a pattern of writing integration style tests by
+exercising the full gRPC stack.
 
 ## Prerequisites
 
